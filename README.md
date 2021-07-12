@@ -1,5 +1,6 @@
 # Election_Analysis
 Performing election audit analysis
+Challenge Assignment found in Election_Analysis_Challenge Folder
 
 ## Overview of Project
 A Colorado Board of Elections employee had provided the following tasks to complete the election audit of a recent local congressional election. 
@@ -33,7 +34,5 @@ The analysis of the election shows the following:
   -  Diane DeGette who received 73.8% of the vote, and 272,892 number of votes.
 
 - Largest County Turnout
-- 
-## Challenge Overview
+- Denver
 
-## Challenge Summary
